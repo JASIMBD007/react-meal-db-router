@@ -1,8 +1,10 @@
 .meal {
-  border: 2px solid rgb(225, 172, 58);
+  border: 2px solid rgb(239, 167, 10);
+  background-color: rgb(248, 237, 221);
   padding: 10px;
   margin: 10px;
 }
 .meal img {
   width: 200px;
+  margin-top: 10px;
 }
